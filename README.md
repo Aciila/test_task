@@ -29,7 +29,11 @@ Make sure you have Node.js installed on your machine.
 ### Installation
 
 Clone the repository:
-git clone https://github.com/Aciila/test_task.git
-cd test_task
-npm i
-npm run test
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Aciila/test_task.git
+   cd test_task
+   npm i
+   npm run test
+   ```
